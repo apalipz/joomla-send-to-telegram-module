@@ -7,7 +7,7 @@
                 <description>Send To Telegram module for Joomla</description>
                 <element>mod_send_telegram</element>
                 <type>module</type>
-                <version>1.0.0</version>
+                <version>1.0.1</version>
                 <infourl title="Send To Telegram Info">https://github.com/apalipz/joomla-send-to-telegram-module</infourl>
                 <downloads>
                     <downloadurl type="full" format="zip">https://github.com/apalipz/joomla-send-to-telegram-module/releases/download/v1.0.0/mod_send_telegram-1.0.0-j3.x-j4.x-j5.zip</downloadurl>
